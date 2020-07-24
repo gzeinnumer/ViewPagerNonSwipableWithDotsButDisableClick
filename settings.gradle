@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ViewPager NonSwipable With Dots But Disable Click"
